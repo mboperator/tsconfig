@@ -1,7 +1,7 @@
 {
   "extends": "./base",
   "compilerOptions": {
-    "jsx": "react",
+    "jsx": "react-jsx",
     "lib": ["dom", "dom.iterable", "esnext"]
   }
 }
