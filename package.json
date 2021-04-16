@@ -4,8 +4,7 @@
   "description": "TypeScript configurations",
   "repository": {
     "type": "git",
-    "url": "https://github.com/straw-hat-team/javascript.git",
-    "directory": "packages/tooling/tsconfig"
+    "url": "https://github.com/straw-hat-team/tsconfig"
   },
   "license": "MIT",
   "keywords": [
